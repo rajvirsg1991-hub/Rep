@@ -1,0 +1,1 @@
+function FindProxyForURL(url, host) {  return "PROXY turbo-vhhizczi.edge.prod.fortisase.com:11637; DIRECT"; }
